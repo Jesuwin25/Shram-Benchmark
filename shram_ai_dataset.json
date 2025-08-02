@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "prompt": "What problem does the original Shram.io product aim to solve and how does it recognise workers' contributions?",
+      "answers": [
+        "Shram.io is an AI‑powered work management tool that helps teams organise projects and tasks while keeping everyone motivated and productive. It recognises your impact at work by automatically measuring contributions, awarding XP points and badges, and giving feedback to team members【550851783312266†L40-L42】【349552836202102†L70-L80】.",
+        "Shram.io is designed to make work management enjoyable by gamifying daily tasks; it organises projects, tracks contributions and uses XP points and badges to recognise team members’ impact【550851783312266†L86-L90】.",
+        "The Shram.io platform addresses the difficulty of tracking team productivity by organising tasks and projects, and motivates users through gamified recognition such as XP points and badges【349552836202102†L70-L80】."
+      ]
+    },
+    {
+      "prompt": "What gamification features does Shram.io offer to motivate users?",
+      "answers": [
+        "Shram.io gamifies progress by awarding XP points, badges and meaningful rewards for completing tasks and projects, making work more engaging【349552836202102†L70-L80】.",
+        "It motivates teams by tracking performance with XP, awarding badges and celebrating milestones so that routine work feels rewarding【349552836202102†L121-L128】.",
+        "Gamification in Shram.io includes XP points, badges and milestone celebrations that recognise contributions and keep team members motivated【550851783312266†L86-L90】."
+      ]
+    },
+    {
+      "prompt": "Which types of teams or sectors benefit most from using Shram.io?",
+      "answers": [
+        "Shram.io is targeted at teams and organisations that need project management and collaboration tools; it is praised by founders, project managers and engineers for enhancing productivity and motivation across various sectors【550851783312266†L86-L93】.",
+        "The tool benefits any team that struggles to manage tasks and track productivity; CEOs, project managers and designers across start‑ups and agencies have noted its positive impact【349552836202102†L174-L208】.",
+        "It is aimed at companies wanting to streamline workflows and increase team motivation; users from diverse roles such as CEOs, architects and product managers report improved organisation and productivity【349552836202102†L174-L208】."
+      ]
+    },
+    {
+      "prompt": "What AI‑powered features does Shram.io provide to help users make better decisions?",
+      "answers": [
+        "Shram.io leverages powerful AI to help teams make decisions faster by matching tasks to the right team member, providing insights and allowing users to talk to Shram for conversational updates【349552836202102†L82-L100】.",
+        "AI features include matching tasks to suitable people, giving instant insights and summarising progress across the workspace so that decisions can be made more quickly【349552836202102†L82-L100】.",
+        "The platform offers AI‑powered search and conversation support, enabling users to search by memory rather than keywords and to receive helpful summaries and suggestions【349552836202102†L96-L107】【349552836202102†L137-L142】."
+      ]
+    },
+    {
+      "prompt": "Why was the separate Shram.ai site launched and what does it offer?",
+      "answers": [
+        "Shram.ai was launched to provide an AI to‑do list that writes itself, reflecting a shift towards fully autonomous work management; it emphasises that a team of engineers and designers are rethinking work management from scratch【174901826780794†L4-L9】.",
+        "The shram.ai domain showcases a new product described as an “AI to‑do list that writes itself,” signalling the company’s vision to make task management autonomous【174901826780794†L4-L9】.",
+        "Shram.ai represents the evolution of Shram into a self‑writing AI to‑do list; the site explains that the team is reimagining work management to be autonomous and invites users to request access【174901826780794†L4-L13】."
+      ]
+    },
+    {
+      "prompt": "How does Shram.ai’s AI to‑do list differ from the original Shram.io project‑management tool?",
+      "answers": [
+        "While Shram.io focuses on gamified project management, Shram.ai aims to provide an autonomous to‑do list that can generate and manage tasks itself, reducing manual effort【174901826780794†L4-L9】.",
+        "Shram.io is about organising projects and motivating teams through XP and badges, whereas Shram.ai is positioned as a self‑writing task list that emphasises automation and autonomy【349552836202102†L70-L80】【174901826780794†L4-L9】.",
+        "The key difference is that Shram.ai promises an AI to‑do list that writes itself, whereas Shram.io offers a gamified project management platform; the former focuses on autonomous task creation and management【174901826780794†L4-L9】."
+      ]
+    },
+    {
+      "prompt": "What vision do the creators of Shram.ai express for the product?",
+      "answers": [
+        "The creators state that they are a team of engineers and designers rethinking work management from scratch, aiming to make it fully autonomous【174901826780794†L8-L9】.",
+        "They envision an AI system that can handle task management autonomously, allowing users to focus on their core work while the AI organises their to‑do list【174901826780794†L4-L9】.",
+        "Shram.ai’s vision is to create an autonomous work management experience, crafted by a team dedicated to reinventing task management【174901826780794†L4-L9】."
+      ]
+    },
+    {
+      "prompt": "When was Shram 2.0 launched and how was it received?",
+      "answers": [
+        "Shram 2.0 was launched on February 20th, 2025 and was ranked #2 product of the day on Product Hunt【550851783312266†L60-L68】.",
+        "The second version of Shram went live on 20 February 2025 and achieved the #2 rank on Product Hunt that day【550851783312266†L60-L68】.",
+        "According to Product Hunt, Shram 2.0 launched on 20 February 2025 and quickly became the second most popular product of that day【550851783312266†L60-L68】."
+      ]
+    },
+    {
+      "prompt": "What do users like about Shram’s approach to work management?",
+      "answers": [
+        "Users appreciate Shram’s ability to enhance team productivity and motivation through a gamified approach, with many highlighting its intuitive UI and enjoyable user experience【550851783312266†L86-L93】.",
+        "Reviews note that Shram is effective at organising tasks and projects and that its unique design and XP‑point system make work management more engaging and accurate【550851783312266†L86-L90】.",
+        "People praise the product’s gamification, user‑friendly design and workflow streamlining, emphasising that it improves productivity and makes work management feel rewarding【550851783312266†L86-L93】."
+      ]
+    },
+    {
+      "prompt": "What challenges did Shram aim to address, according to user feedback?",
+      "answers": [
+        "Users report that before using Shram they struggled with managing tasks and tracking progress across multiple platforms; Shram consolidated everything and reduced the need for frequent meetings【349552836202102†L174-L187】.",
+        "Feedback highlights that teams previously faced challenges juggling multiple projects and tools, and that Shram simplified operations and saved time by providing a unified platform【349552836202102†L174-L208】.",
+        "Reviews mention difficulties in tracking team productivity and juggling numerous tools; Shram helped streamline workflows and made project tracking easier【349552836202102†L174-L208】."
+      ]
+    }
+  ]
+}
